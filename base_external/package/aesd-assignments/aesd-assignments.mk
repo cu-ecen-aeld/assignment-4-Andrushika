@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 9e2a4c752427f8ad38795da5cb0ae6425bb60c08
+AESD_ASSIGNMENTS_VERSION = ccf74cf56e8a83806a78015d40e6f6273602fced
 # Note: ssh URL required (not https) for automated build/test system
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-Andrushika.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
